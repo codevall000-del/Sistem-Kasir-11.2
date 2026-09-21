@@ -1,0 +1,6 @@
+# Laragon root index
+index.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
